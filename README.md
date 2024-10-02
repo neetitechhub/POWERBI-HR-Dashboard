@@ -1,5 +1,5 @@
 # HR-Dashboard
-HR Dashboard Data Analysys
+HR Dashboard Data Analysys : This was my first project while I was moving my career towards data analytics.
 
 KPI's :
 
