@@ -1,11 +1,11 @@
 # HR-Dashboard
-HR Dashboard Data Analysys
+HR Attrition Dashboard Data Analysys
 
 KPI's :
 
 1. Total Attrition
 2. Attrition Rate
-3. Attrition by education
+3. Attrition by education/Age (Male/Female)
 4. Average Age
 5. Average Salary
 6. Average Year in Company
